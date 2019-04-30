@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2010\Projects\Ping-Pong\Ping-Pong\bin\Debug\Ping-Pong.exe
+c:\users\user\documents\visual studio 2010\Projects\Ping-Pong\Ping-Pong\bin\Debug\Ping-Pong.pdb
+c:\users\user\documents\visual studio 2010\Projects\Ping-Pong\Ping-Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Ping-Pong\Ping-Pong\obj\x86\Debug\Ping_Pong.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\Ping-Pong\Ping-Pong\obj\x86\Debug\Ping_Pong.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Ping-Pong\Ping-Pong\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Ping-Pong\Ping-Pong\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Ping-Pong\Ping-Pong\obj\x86\Debug\Ping-Pong.exe
+c:\users\user\documents\visual studio 2010\Projects\Ping-Pong\Ping-Pong\obj\x86\Debug\Ping-Pong.pdb
+c:\users\user\documents\visual studio 2010\Projects\Ping-Pong\Ping-Pong\obj\x86\Debug\Ping_Pong.Form2.resources
+c:\users\user\documents\visual studio 2010\Projects\Ping-Pong\Ping-Pong\obj\x86\Debug\Ping_Pong.VentanaJuego.resources
